@@ -17,6 +17,7 @@ int main()
     
     //CABECALHO
     cout<<"Livro CHATRPG - Criado e apresentado por Lucas de Amorim Coelho e Thiago Gualberto";
+    cout<<"\nTítulo: O Desastre em Haprinas";
     cout<<"\nObservacao: esse livro possui tres finais, dito isso, bom jogo e divirta-se!";
     limpar();//limpar console
     
